@@ -1,0 +1,5 @@
+python 3.10.15
+streamlit
+pycaret
+joblib
+scikit-learn  
