@@ -1,4 +1,5 @@
 python 3.10.15
 streamlit
 pycaret
-joblib  
+joblib
+scikit-learn  
