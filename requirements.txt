@@ -3,4 +3,5 @@ streamlit
 pycaret
 joblib
 scikit-learn  
-numpy 
+numpy  
+
