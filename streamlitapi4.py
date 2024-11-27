@@ -10,7 +10,7 @@ st.title('Water Quality Prediction')
 # Get user input
 ph = st.text_input('pH')
 Hardness = st.text_input('Hardness')
-Solids = st.text_input('Solids')sss
+Solids = st.text_input('Solids')
 Chloramines = st.text_input('Chloramines')
 Sulfate = st.text_input('Sulfate')
 Conductivity = st.text_input('Conductivity')
